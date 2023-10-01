@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi, I'm Maniraj Sai!
+### 🌟 I'm passionate about Data Science, Machine Learning, and Artificial Intelligence.
+### 🛠 My toolkit includes Python, R, TensorFlow, and Scikit-learn.
+### 🔍 I’m currently working on enhancing machine learning models for food insecurity forecasting.
+### 🌱 I’m currently learning Reinforcement Learning and Natural Language Processing.
+### 👥 I’m looking to collaborate on innovative AI projects and research.
+### 📫 How to reach me: maniraj@email.com
+### 💬 Ask me about my projects, my research, and the technologies I use.
+### 🚀 Fun Fact: I love hiking and have explored over 20 trails in the last year!
 
 <!--
 **thecr7guy2/thecr7guy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
