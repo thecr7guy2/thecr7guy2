@@ -9,11 +9,12 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 * 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
 * 🚀 Fun Fact: I love playing video games and I promise to destroy you on FIFA whenever youa re up for it.
 
-### 🌱 I'm Eager to:
+### What I Bring to the Table:
 
-* 🌟 Drive Innovation: Engage with organizations to implement transformative solutions and advance organizational objectives.
-* 🚀 Grow Professionally: Continue my commitment to professional development and mastery in the domain of Artificial Intelligence.
-* 🤝 Collaborate: Work with like-minded professionals and organizations that are synonymous with innovation and excellence.
+* 🧠 In-depth Knowledge: A strong foundation in AI, honed through intensive projects and a thesis focusing on modeling uncertainty in GAN’s for super-resolution.
+* 🛠️ Technical Proficiency: Proficient in Python, PyTorch, SQL, and Git, enabling the development of innovative and efficient solutions.
+* 🌐 Diverse Experience: From developing NLP solutions at Kickstart AI to creating computer vision solutions for African reforestation efforts at FruitPunch AI, my journey is marked by varied and impactful contributions.
+* 🤝 Team Collaboration: A proven track record of effective collaboration, communication, and meaningful contributions to multidisciplinary teams.
 
 ### Skills
 
