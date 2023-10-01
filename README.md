@@ -7,7 +7,7 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 * ✉️  You can contact me at [manirajadapa@gmail.com](mailto:manirajadapa@gmail.com)
 * 🧠  I'm learning Stable diffusion and MLops
 * 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
-* ⚡  🚀 Fun Fact: I love playing video games and I promise to destroy you on FIFA whenever youa re up for it.
+* 🚀 Fun Fact: I love playing video games and I promise to destroy you on FIFA whenever youa re up for it.
 
 ### 🌱 I'm Eager to:
 
