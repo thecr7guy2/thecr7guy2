@@ -5,7 +5,7 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 
 * 🌍  I'm based in Groningen.
 * ✉️  You can contact me at [manirajadapa@gmail.com](mailto:manirajadapa@gmail.com).
-* 🧠  I'm learning Stable diffusion and MLops.
+* 🧠  I'm learning MLops right now.
 * 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
 * 🚀 Fun Fact: I love playing video games.
 ### What I Bring to the Table:
