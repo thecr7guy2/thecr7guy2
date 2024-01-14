@@ -1,35 +1,26 @@
-Hi 👋 My name is Maniraj Sai
-============================
+<h1 align="center">Hi, I'm Maniraj Sai</h1>
+<h3 align="center">Aspiring Data Engineer</h3>
 
-I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learning, Natural Language Processing, and Computer Vision. With a Master’s in Artificial Intelligence from Rijksuniversiteit Groningen and a rich tapestry of experiences, I am on a mission to leverage AI to solve complex problems and drive innovation.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/manirajsai/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Jaw_Stata">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-* 🌍  I'm based in Groningen.
-* ✉️  You can contact me at [manirajadapa@gmail.com](mailto:manirajadapa@gmail.com).
-* 🧠  I'm learning MLops right now.
-* 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
-* 🚀 Fun Fact: I love playing video games.
-### What I Bring to the Table:
+👋 Hello! I'm **Maniraj Sai**, an AI graduate with a deep passion for data engineering and analytics. I find joy in transforming raw data into meaningful insights, and my journey in the realm of data has been an exciting exploration.
 
-* 🧠 In-depth Knowledge: A strong foundation in AI, honed through intensive projects and a thesis focusing on modeling uncertainty in GAN’s for super-resolution.
-* 🛠️ Technical Proficiency: Proficient in Python, PyTorch, SQL, and Git, enabling the development of innovative and efficient solutions.
-* 🌐 Diverse Experience: From developing NLP solutions at Kickstart AI to creating computer vision solutions for African reforestation efforts at FruitPunch AI, my journey is marked by varied and impactful contributions.
-* 🤝 Team Collaboration: A proven track record of effective collaboration, communication, and meaningful contributions to multidisciplinary teams.
+### 🚀 What I Do
+Im a highly motivated and passion-driven AI Graduate specializing in Deep Learning, Natural Language Processing, and Computer Vision. With a Master’s in Artificial Intelligence from Rijksuniversiteit Groningen, I am on a mission to leverage AI to solve complex problems and drive innovation.
 
-### Skills
+### 💡 Why ?
 
+My enthusiasm for working with data stems from a genuine curiosity about the stories it can tell. I believe that every dataset has a narrative waiting to be uncovered, and I am dedicated to deciphering these narratives through the lens of data engineering and analysis.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+### 📈 Let's Connect!
 
+I am enthusiastic about connecting with fellow AI enthusiasts, professionals, and anyone interested in the transformative power of data. If you share a passion for data engineering or have insights to share, let's connect and explore the endless possibilities that data has to offer.
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/thecr7guy2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/manirajsai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/manirajadapa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/fcb_uchiha2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/thecr7guy2"><img src="https://github-readme-stats.vercel.app/api?username=thecr7guy2&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="thecr7guy2's GitHub stats" /></a>
-
+Feel free to reach out, whether it's to discuss data projects, share knowledge, or simply exchange ideas. The journey of uncovering insights from data is always more enjoyable when it's a collaborative effort!
