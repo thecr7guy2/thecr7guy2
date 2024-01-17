@@ -2,7 +2,7 @@
 
 
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
-<h2 id="about-the-repository-and-author"> Hi 👋 My name is Maniraj Sai</h2>
+<h1 id="about-the-repository-and-author"> Hi 👋 My name is Maniraj Sai</h1>
 
 <a href="https://www.x.com/fcb_uchiha2"><img src="assets/Sai.png" alt="Sai" align="right" height="225px"></a>
 
@@ -30,3 +30,11 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### 🌱 Always Learning
+I'm a perpetual learner, constantly staying updated with the ever-changing AI landscape. I actively seek opportunities to expand my AI skills and adopt new tools and techniques to enhance my capabilities in artificial intelligence.
+
+
+### 📈 Let's Connect!
+I am passionate about connecting with fellow AI enthusiasts, professionals, and anyone intrigued by the potential of Artificial Intelligence. Whether it's a project that leverages AI in creative ways, a discussion on the latest AI trends, or simply brainstorming over innovative ideas, I am all ears. 
+
