@@ -13,7 +13,7 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 * 🌍  I'm based in Groningen.
 * ✉️  You can contact me at [manirajadapa@gmail.com](mailto:manirajadapa@gmail.com).
 * 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
-* 🚀 Fun Fact: I love playing video games.
+* 🚀 Fun Fact: Bananas are radioactive due to their potassium content, but you would need to eat more than 10 million bananas at once to die of radiation poisoning.
 
 <br>
 
