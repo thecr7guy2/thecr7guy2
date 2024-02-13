@@ -17,7 +17,7 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 
 <br>
 
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/Resume_sai.pdf)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](assets/ml_engineer.pdf)
 [![Personal Website Badge](https://img.shields.io/badge/thecr7guy2.github.io-019FD9?style=flat&logo=web&logoColor=white)](https://thecr7guy2.github.io/)
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manirajadapa@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manirajsai/)
