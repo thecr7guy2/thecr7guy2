@@ -3,17 +3,12 @@
 
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
 <h1 id="about-the-repository-and-author"> Hi 👋 My name is Maniraj Sai</h1>
-
 <a href="https://www.x.com/fcb_uchiha2"><img src="assets/Sai.png" alt="Sai" align="right" height="225px"></a>
 
+I work with LLMs (Mostly Local Ones).
 
-
-I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learning, Natural Language Processing, and Computer Vision. With a Master’s in Artificial Intelligence from Rijksuniversiteit Groningen and a rich tapestry of experiences, I am on a mission to leverage AI to solve complex problems and drive innovation.
-
-* 🌍  I'm based in Groningen.
+* 🌍  I'm based in Arnhem.
 * ✉️  You can contact me at [manirajadapa@gmail.com](mailto:manirajadapa@gmail.com).
-* 🤝  I'm open to collaborating on any fun data visualizations with football involved in it.
-* 🚀 Fun Fact: Bananas are radioactive due to their potassium content, but you would need to eat more than 10 million bananas at once to die of radiation poisoning.
 
 <br>
 
@@ -28,10 +23,6 @@ I'm a highly motivated and passion-driven AI Graduate specializing in Deep Learn
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 🌱 Always Learning
-I'm a perpetual learner, constantly staying updated with the ever-changing AI landscape. I actively seek opportunities to expand my AI skills and adopt new tools and techniques to enhance my capabilities in artificial intelligence.
-
 
 ### 📈 Let's Connect!
 I am passionate about connecting with fellow AI enthusiasts, professionals, and anyone intrigued by the potential of Artificial Intelligence. Whether it's a project that leverages AI in creative ways, a discussion on the latest AI trends, or simply brainstorming over innovative ideas, I am all ears. 
