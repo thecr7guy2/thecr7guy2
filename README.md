@@ -3,8 +3,6 @@
 
 <!-- ABOUT THE REPOSITORY AND AUTHOR -->
 <h1 id="about-the-repository-and-author"> Hi 👋 My name is Maniraj Sai</h1>
-<a href="https://www.x.com/fcb_uchiha2"><img src="assets/Sai.png" alt="Sai" align="right" height="225px"></a>
-
 I work with LLMs (Mostly Local Ones).
 
 * 🌍  I'm based in Arnhem.
