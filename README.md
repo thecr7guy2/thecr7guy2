@@ -1,59 +1,81 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00f5ff,45:00ff87,100:ffb347&text=MANIRAJ%20SAI&fontSize=56&fontColor=0d1117&animation=twinkling&fontAlignY=35" alt="header" />
-</div>
+  <div align="center">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/manirajsai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://thecr7guy2.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=aboutdotme&logoColor=111" alt="Portfolio" />
-  </a>
-  <a href="mailto:manirajadapa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=thecr7guy2&label=PROFILE%20VIEWS&color=00e7ff&style=for-the-badge" alt="Profile views" />
-</div>
+  # 🤖 Maniraj-1.0
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=00E7FF&center=true&vCenter=true&width=980&lines=AI+Engineer+for+Production+LLM+Systems;On-prem+AI+%7C+Training+Workflows+%7C+Evaluation;Building+useful+systems%2C+not+demo+ware" alt="Typing intro" />
-</div>
+  *State-of-the-art human language model, fine-tuned for AI engineering.
+  Deployed in Schiphol, NL since 1999. Currently serving traffic at [aXite Security Tools](https://thecr7guy2.github.io).*
 
-<table>
-  <tr>
-    <td width="57%" valign="top">
+  [portfolio](https://thecr7guy2.github.io) · [linkedin](https://www.linkedin.com/in/manirajsai/) · [email](mailto:manirajadapa@gmail.com)
 
-### What I do
-- Ship production LLM systems and agent workflows.
-- Build reliable on-prem AI apps for real teams.
-- Turn ideas into deployable, measurable products.
+  </div>
 
-### Current focus
-`LLM evaluation` `training pipelines` `agentic systems` `deployment reliability`
+  ---
 
-### Writing
-- [Training GPT-2 small from scratch](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
-- [How we built AX-Office.ai](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
-- [Insider-signals AI trading bot](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
+  ## Model Specs
 
-  </td>
-    <td width="43%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Coding vibe" />
-    </td>
-  </tr>
-</table>
+  | | |
+  |---|---|
+  | **Architecture** | Carbon-based · bipedal · single-threaded |
+  | **Parameters** | ~86 billion neurons (most untrained) |
+  | **Context window** | 16h · degrades sharply after 22:00 unless caffeinated |
+  | **Training data** | Production incidents · open-source repos · Champions League replays · Stack Overflow circa 2018 |
+  | **Languages** | Python, English, Telugu, SQL, fluent Bash, broken Dutch |
+  | **License** | Available for hire (commercial use permitted) |
+  | **Jersey number** | 7 — non-negotiable |
 
-### Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,postgres,aws,gcp,linux,git,airflow,notion&theme=dark" alt="Tech stack" />
-</p>
+  ## Benchmarks
 
-### GitHub pulse
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thecr7guy2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecr7guy2&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+  | Eval | Score | Notes |
+  |---|---|---|
+  | Shipping production AI | **5 / 5 apps** | AX-Office.ai is live |
+  | Pretraining from scratch | **18B tokens** | beat GPT-2 on most benchmarks |
+  | Letting an LLM trade real money | **2× / week** | Claude Opus does the heavy lifting tbh |
+  | Scoring football technique with CV | **⚽** | 3D skeleton viz in Three.js, ask me about it |
+  | Sleeping reasonable hours | **0.3 / 5** | known limitation, see § |
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00f5ff,45:00ff87,100:ffb347" alt="footer" />
-</div>
+  ## Recent Fine-Tuning Runs
+
+  | Run | Description |
+  |---|---|
+  | **[`sec-filing-trader-v1`](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)** | Claude Opus reads insider
+  filings twice a week and runs a real portfolio. Unsupervised. So far, solvent. |
+  | **[`gpt2-124M-from-scratch`](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)** | 18B curated tokens. Beat the original on most benchmarks.
+   Wrote up the bugs that ate weeks. |
+  | **[`ax-office-ai`](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)** | On-prem LLM platform · 5 production apps · 0 cloud
+  dependencies · 1 very nervous GPU. |
+  | `ajax-shot-analyzer` | CV + 3D skeleton viz scoring a footballer's shot. (No, I won't review yours. Maybe.) |
+  | `esrgan-with-uncertainty` | Master's thesis. Medical-image super-resolution with calibrated confidence — "the AI says so" isn't a diagnosis. |
+
+  ## Known Limitations & Biases
+
+  - Strong prior that this will be "a quick refactor." It will not.
+  - Refuses to stop talking about Ronaldo when prompted with `cr7`.
+  - Hallucinates Friday deploys are safe. They are not.
+  - Latency spikes when a meeting could have been a Slack message.
+  - Will not use Jira. Graceful degradation in progress.
+  - Dark mode bias. Light mode triggers fallback to mild grumpiness.
+
+  ## How To Get Best Results
+
+  **Prompt with:** a real problem · honest constraints · coffee.
+  **Avoid:** vague tickets · five-meeting days · "just a quick question."
+  **Temperature:** 0.7 by default; 0.2 before deploys; 1.0 at hackathons.
+
+  ## Recommended Runtime
+
+  ```
+  Python  ·  PyTorch  ·  vLLM  ·  HuggingFace  ·  Anthropic SDK
+  FastAPI  ·  Docker  ·  Postgres + pgvector  ·  RunPod  ·  GH Actions
+  ```
+
+  ## System Prompt
+
+  > *Build useful systems, not demo-ware.
+  > Ship the boring parts well.
+  > Read the logs.*
+
+  ---
+
+  <div align="center">
+  <sub><i>Model card v1.0 · weights not openly released · happy to chat over coffee ☕</i></sub>
+  </div>
