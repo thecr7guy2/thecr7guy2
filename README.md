@@ -1,100 +1,106 @@
- <div align="center">
+<div align="center">
+  <img src="./assets/terminal-header.svg" alt="Terminal-style banner for Maniraj Sai" width="100%" />
+</div>
 
-  # Maniraj Sai
+```bash
+maniraj@github:~$ ./boot
+[ok] production llm systems
+[ok] agent workflows
+[ok] evaluation harnesses
+[ok] training pipelines
+[ok] on-prem deployments for teams that do not want their data leaving the building
+```
 
-  ### AI Engineer · Production LLM Systems
+<div align="center">
 
-  <img src="https://img.shields.io/badge/-Schiphol,_NL-0D1117?style=flat-square&logoColor=00D9F5&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-aXite_Security_Tools-0D1117?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/-Open_to_opportunities-00D9F5?style=flat-square&labelColor=0D1117" />
+[portfolio](https://thecr7guy2.github.io) | [linkedin](https://www.linkedin.com/in/manirajsai/) | [email](mailto:manirajadapa@gmail.com)
 
-  <br/>
+<img src="https://img.shields.io/badge/location-schiphol,_nl-08110c?style=for-the-badge&labelColor=05080a&color=123122" />
+<img src="https://img.shields.io/badge/company-aXite_security_tools-08110c?style=for-the-badge&labelColor=05080a&color=123122" />
+<img src="https://img.shields.io/badge/status-open_to_opportunities-08110c?style=for-the-badge&labelColor=05080a&color=1f8f4e" />
 
-  [**Portfolio**](https://thecr7guy2.github.io) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/manirajsai/) &nbsp;·&nbsp; [**Email**](mailto:manirajadapa@gmail.com)
+</div>
 
-  </div>
+---
 
-  <br/>
+## `cat about.txt`
 
-  ---
+I build LLM systems for real environments, not demo environments.
 
-  ### About
+That means latency budgets, evaluation gates, messy data, retrieval that fails in interesting ways, models that need to run locally, and enough observability to explain what broke at 2 a.m.
 
-  I design and ship production LLM systems — agentic workflows, evaluation harnesses, training pipelines, and on-prem deployments for teams whose data can't leave the building. I care about the unglamorous edges:
-  reliability, latency, evals, the boring parts that decide whether AI actually works in the wild.
+The work I like most sits in the unglamorous layer between research and production: the part where ideas either become reliable systems or quietly die.
 
-  ### Now
+## `tail -f now.log`
 
-  - Building **AX-Office.ai** — an on-prem LLM platform running 5 production apps for a security-tools company
-  - Designing an **agent evaluation framework** so model swaps don't become Friday-night incidents
-  - Benchmarking **10+ open-source models** for sensitive-data workloads
+```text
+> building AX-Office.ai
+  on-prem LLM platform currently powering 5 production apps
 
-  <br/>
+> designing an agent eval framework
+  so model swaps do not turn into Friday-night incidents
 
-  ---
+> benchmarking 10+ open-source models
+  for privacy-sensitive and security-heavy workflows
+```
 
-  ### Selected Work
+## `ls selected_systems/`
 
-  #### → [sec-filing-trader](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
-  Claude Opus parses insider SEC filings twice a week and manages a real portfolio. Unsupervised. So far, solvent.
-  `Anthropic SDK`&nbsp; `agents`&nbsp; `Python`&nbsp; `Postgres`
+```text
+AX-Office.ai/
+sec-filing-trader/
+gpt2-124M-from-scratch/
+ajax-shot-analyzer/
+esrgan-with-uncertainty/
+```
 
-  #### → [gpt2-124M-from-scratch](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
-  Pretrained a 124M GPT-2 on 18B carefully curated tokens. Beat the original on most benchmarks, then instruction-tuned on top.
-  `PyTorch`&nbsp; `pretraining`&nbsp; `SFT`&nbsp; `distributed training`
+### `./selected_systems/AX-Office.ai`
+Local-first LLM platform for a security company that cannot rely on outside APIs. Shared infra, five production apps, one evaluation layer, zero external calls.
 
-  #### → [AX-Office.ai](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
-  On-prem LLM platform powering daily work for a security company that can't touch cloud APIs. Five production apps, one eval framework, zero outside calls.
-  `vLLM`&nbsp; `RAG`&nbsp; `ASR`&nbsp; `OCR`&nbsp; `FastAPI`
+`vLLM` `RAG` `ASR` `OCR` `FastAPI`  
+[read write-up](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
 
-  #### → ajax-shot-analyzer
-  Computer-vision pipeline scoring a footballer's shooting technique, with 3D skeleton reconstruction visualised in the browser.
-  `MediaPipe`&nbsp; `OpenCV`&nbsp; `Three.js`
+### `./selected_systems/sec-filing-trader`
+Agent that reads insider SEC filings twice a week and manages a live portfolio with minimal supervision. Slightly unhinged, still solvent.
 
-  #### → esrgan-with-uncertainty
-  Master's thesis. Super-resolution for medical imaging — with calibrated confidence bounds, because "the model says so" isn't a diagnosis.
-  `PyTorch`&nbsp; `ESRGAN`&nbsp; `Bayesian deep learning`
+`Anthropic SDK` `agents` `Python` `Postgres`  
+[read write-up](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
 
-  <br/>
+### `./selected_systems/gpt2-124M-from-scratch`
+Pretrained a 124M GPT-2 on 18B curated tokens, beat the original model on most benchmarks, then instruction-tuned it on top.
 
-  ---
+`PyTorch` `pretraining` `SFT` `distributed training`  
+[read write-up](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
 
-  ### Writing
+### `./selected_systems/ajax-shot-analyzer`
+Computer-vision pipeline that scores a footballer's shooting technique and visualizes 3D skeleton reconstruction in the browser.
 
-  - [**How I trained an LLM from scratch — and fine-tuned it**](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
-    Pretraining a GPT-2 124M, instruction-tuning it, and the bugs that ate weeks.
+`MediaPipe` `OpenCV` `Three.js`
 
-  - [**AX-Office.ai — building local AI into the heart of an office**](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
-    What it actually looks like to ship LLMs on-prem for a real team.
+### `./selected_systems/esrgan-with-uncertainty`
+Master's thesis on medical-image super-resolution with calibrated uncertainty, because "the model says so" is not a clinical standard.
 
-  - [**A trading bot that reads SEC filings, run by Claude Opus**](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
+`PyTorch` `ESRGAN` `Bayesian deep learning`
 
-    When it works, when it doesn't, why I haven't unplugged it.
+## `grep -R "writing" ./notes`
 
-  <br/>
+- [How I trained an LLM from scratch and fine-tuned it](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
+- [AX-Office.ai: building local AI into the heart of an office](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
+- [A trading bot that reads SEC filings, run by Claude Opus](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
 
-  ---
+## `env | grep TOOLBOX`
 
-  ### Stack
+```text
+LLM_SYSTEMS=Python, vLLM, HuggingFace, Anthropic SDK, RAG
+TRAINING=PyTorch, SFT, distributed training
+BACKEND=FastAPI, Docker, Linux
+DATA=PostgreSQL, pgvector
+CLOUD=AWS, GCP, GitHub Actions
+```
 
-  <p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/vLLM-0D1117?style=flat-square&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/Anthropic_SDK-0D1117?style=flat-square&logo=anthropic&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/pgvector-0D1117?style=flat-square&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=googlecloud&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00D9F5" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=00D9F5" />
-  </p>
+---
 
-  <br/>
-
-  <div align="center">
-  <sub><i>Build useful systems. Ship the boring parts well. Read the logs.</i></sub>
-  </div>
+```bash
+maniraj@github:~$ echo "Build useful systems. Ship the boring parts well. Read the logs."
+Build useful systems. Ship the boring parts well. Read the logs.
+```
