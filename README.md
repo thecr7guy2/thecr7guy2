@@ -59,10 +59,5 @@ Currently building **AX-Office.ai**, an on-prem LLM platform powering five produ
 - [A trading bot that reads SEC filings, run by Claude Opus](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecr7guy2&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecr7guy2&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
   <sub>Build useful systems. Ship the boring parts well. Read the logs.</sub>
 </p>
