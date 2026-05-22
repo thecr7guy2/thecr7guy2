@@ -1,0 +1,59 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Maniraj Sai - Production AI Systems Engineer</title>
+  <desc id="desc">A polished dark profile banner for Maniraj Sai focused on production AI systems, local LLMs, evaluation, and training.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061014"/>
+      <stop offset="0.48" stop-color="#0A161B"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="132" y1="62" x2="1020" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18 0 0 0 0 0.95 0 0 0 0 0.72 0 0 0 0.45 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#FFFFFF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <path d="M76 330C206 232 280 255 420 176C566 94 681 41 846 91C975 130 1045 229 1208 161" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <path d="M80 334C212 239 286 262 424 184C566 103 680 55 842 104C968 143 1042 238 1202 172" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" opacity="0.08" filter="url(#glow)"/>
+
+  <g transform="translate(72 64)">
+    <rect x="0" y="0" width="1136" height="292" rx="28" fill="#071015" fill-opacity="0.78" stroke="#2DD4BF" stroke-opacity="0.24"/>
+
+    <text x="44" y="74" fill="#8EE6D2" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="800" letter-spacing="3">PRODUCTION AI SYSTEMS</text>
+    <text x="42" y="154" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="70" font-weight="850" letter-spacing="-1">Maniraj Sai</text>
+    <text x="46" y="204" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="500">Local LLMs, agent evaluation, training pipelines, reliable deployment.</text>
+
+    <g transform="translate(48 238)" font-family="Inter, ui-sans-serif, system-ui" font-size="16" font-weight="800">
+      <rect x="0" y="0" width="148" height="38" rx="19" fill="#0F766E" fill-opacity="0.28" stroke="#2DD4BF" stroke-opacity="0.42"/>
+      <text x="19" y="25" fill="#A7F3D0">on-prem LLMs</text>
+      <rect x="166" y="0" width="120" height="38" rx="19" fill="#0369A1" fill-opacity="0.24" stroke="#38BDF8" stroke-opacity="0.34"/>
+      <text x="188" y="25" fill="#BAE6FD">agents</text>
+      <rect x="304" y="0" width="132" height="38" rx="19" fill="#92400E" fill-opacity="0.22" stroke="#FBBF24" stroke-opacity="0.34"/>
+      <text x="326" y="25" fill="#FDE68A">evaluation</text>
+      <rect x="454" y="0" width="116" height="38" rx="19" fill="#4C1D95" fill-opacity="0.22" stroke="#A78BFA" stroke-opacity="0.34"/>
+      <text x="477" y="25" fill="#DDD6FE">training</text>
+    </g>
+
+    <g transform="translate(802 64)">
+      <rect x="0" y="0" width="266" height="166" rx="24" fill="#0B1720" fill-opacity="0.88" stroke="#334155"/>
+      <text x="28" y="46" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="800" letter-spacing="2">NOW BUILDING</text>
+      <text x="28" y="91" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui" font-size="31" font-weight="850">AX-Office.ai</text>
+      <text x="28" y="125" fill="#A7F3D0" font-family="Inter, ui-sans-serif, system-ui" font-size="18" font-weight="700">5 production AI apps</text>
+      <text x="28" y="149" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="600">zero external LLM calls</text>
+    </g>
+  </g>
+</svg>
