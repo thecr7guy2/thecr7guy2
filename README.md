@@ -9,9 +9,7 @@
   <a href="./assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-0F766E?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 </p>
 
-## I build AI systems that survive contact with production.
-
-I work on the part of AI that usually gets ignored in demos: latency budgets, evaluation gates, messy retrieval, local model serving, observability, and deployment constraints for teams that cannot leak sensitive data to outside APIs.
+## I build AI systems.
 
 Currently building **AX-Office.ai**, an on-prem LLM platform powering five production apps inside a security company.
 
@@ -37,7 +35,6 @@ Currently building **AX-Office.ai**, an on-prem LLM platform powering five produ
 | Project | What it is | Stack |
 |---|---|---|
 | **[AX-Office.ai](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)** | On-prem AI platform with five production apps and zero external LLM calls. | `vLLM` `RAG` `ASR` `OCR` `FastAPI` |
-| **[SEC filing trader](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)** | Agent that reads insider SEC filings and manages a live portfolio. | `Anthropic SDK` `agents` `Python` `Postgres` |
 | **[GPT-2 124M from scratch](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)** | Pretrained a 124M GPT-2 on 18B curated tokens, then instruction-tuned it. | `PyTorch` `pretraining` `SFT` |
 | **Ajax shot analyzer** | Computer-vision pipeline for football shooting technique and 3D skeleton visualization. | `MediaPipe` `OpenCV` `Three.js` |
 | **ESRGAN with uncertainty** | Master's thesis on medical-image super-resolution with calibrated uncertainty. | `PyTorch` `ESRGAN` `Bayesian DL` |
@@ -56,8 +53,4 @@ Currently building **AX-Office.ai**, an on-prem LLM platform powering five produ
 
 - [How I trained an LLM from scratch and fine-tuned it](https://bramble-hickory-105.notion.site/How-I-trained-an-LLM-from-scratch-and-finetuned-it-271a490c257c80718ffcf42b6d90e962)
 - [AX-Office.ai: building local AI into the heart of an office](https://bramble-hickory-105.notion.site/AX-Office-ai-How-We-Built-Local-AI-Into-the-Heart-of-Our-Office-323a490c257c81beb4e4e022ded8bfcc)
-- [A trading bot that reads SEC filings, run by Claude Opus](https://bramble-hickory-105.notion.site/I-Built-a-Bot-That-Reads-SEC-Filings-and-Lets-Claude-Opus-Manage-My-Portfolio-323a490c257c81739909cb792452185a)
 
-<p align="center">
-  <sub>Build useful systems. Ship the boring parts well. Read the logs.</sub>
-</p>
