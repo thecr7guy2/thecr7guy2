@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header-2026.svg" width="100%" alt="Maniraj Sai - AI engineer building local AI infrastructure, agentic systems, and models from first principles" />
+  <img src="./assets/profile-header-2026.svg" width="100%" alt="Maniraj Sai - AI engineer building private AI infrastructure, agentic systems, and rigorous model evaluation" />
 </p>
 
 <p align="center">
@@ -76,4 +76,4 @@ We combined ESRGAN with Monte Carlo Dropout and deep ensembles to produce calibr
   <img src="https://img.shields.io/badge/TypeScript-111820?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 </p>
 
-<p align="center"><sub>Based in the Netherlands. Building AI systems from first principles to production.</sub></p>
+<p align="center"><sub>Based in the Netherlands. Building private AI systems from research to production.</sub></p>

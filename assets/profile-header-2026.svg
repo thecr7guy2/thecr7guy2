@@ -1,32 +1,32 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Maniraj Sai, AI Engineer</title>
-  <desc id="desc">Local AI infrastructure, agentic systems, and models from first principles.</desc>
+  <desc id="desc">Private AI infrastructure, agentic systems, and rigorous model evaluation.</desc>
   <defs>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#202A35" stroke-width="1"/>
+      <path d="M40 0H0V40" stroke="#D9E0E3" stroke-width="1"/>
     </pattern>
     <clipPath id="clip">
       <rect width="1200" height="360" rx="8"/>
     </clipPath>
   </defs>
   <g clip-path="url(#clip)">
-    <rect width="1200" height="360" fill="#0B0F14"/>
-    <rect width="1200" height="360" fill="url(#grid)" opacity="0.58"/>
+    <rect x="1" y="1" width="1198" height="358" rx="7" fill="#F3F6F7" stroke="#AAB5BA" stroke-width="2"/>
+    <rect width="1200" height="360" fill="url(#grid)" opacity="0.72"/>
     <rect x="0" y="0" width="10" height="360" fill="#FF6B5C"/>
     <rect x="10" y="0" width="4" height="360" fill="#39D0C3"/>
 
-    <text x="72" y="72" fill="#39D0C3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0">AI ENGINEER / NETHERLANDS</text>
-    <text x="68" y="162" fill="#F3F6F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="750" letter-spacing="0">MANIRAJ SAI</text>
-    <text x="72" y="212" fill="#A9B4C0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0">Local AI infrastructure, agentic systems,</text>
-    <text x="72" y="244" fill="#A9B4C0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0">and models from first principles.</text>
+    <text x="72" y="72" fill="#087F78" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0">AI ENGINEER / NETHERLANDS</text>
+    <text x="68" y="162" fill="#111719" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="72" font-weight="750" letter-spacing="0">MANIRAJ SAI</text>
+    <text x="72" y="212" fill="#465359" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0">Private AI infrastructure, agentic systems,</text>
+    <text x="72" y="244" fill="#465359" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" letter-spacing="0">and rigorous model evaluation.</text>
 
-    <line x1="72" y1="294" x2="1128" y2="294" stroke="#33404D" stroke-width="1"/>
+    <line x1="72" y1="294" x2="1128" y2="294" stroke="#B7C1C6" stroke-width="1"/>
     <rect x="72" y="316" width="8" height="8" fill="#FF6B5C"/>
-    <text x="94" y="326" fill="#D9E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0">BUILD</text>
+    <text x="94" y="326" fill="#263137" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0">BUILD</text>
     <rect x="198" y="316" width="8" height="8" fill="#39D0C3"/>
-    <text x="220" y="326" fill="#D9E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0">SERVE</text>
+    <text x="220" y="326" fill="#263137" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0">SERVE</text>
     <rect x="330" y="316" width="8" height="8" fill="#F3C969"/>
-    <text x="352" y="326" fill="#D9E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0">EVALUATE</text>
+    <text x="352" y="326" fill="#263137" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0">EVALUATE</text>
 
     <g transform="translate(870 58)">
       <rect x="0" y="0" width="258" height="190" fill="#111820" stroke="#33404D"/>
